@@ -1,0 +1,12 @@
+{
+    "testRun": false,
+    "evaluationFolderId": 390,
+    "evaluationTemplateFileName": "evaluation.md",
+    "evaluationSourceFilePath": "evaluation.md",
+    "evaluationTargetFilePath": "exam-results.md",
+    "relevantTableIndex": 3,
+    "pointTranslation": {
+        "KOMP_PUNKTE": 3,
+        "NK_PUNKTE": 0
+    } 
+}
